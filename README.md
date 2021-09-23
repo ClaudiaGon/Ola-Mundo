@@ -1,2 +1,4 @@
-# Ola Mundo
+# Olá, Mundo
  Primeiro repositorio do curso GIT e GITHUB
+
+ Repositorio criado no dia 22 de setembro de 2020
